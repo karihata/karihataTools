@@ -1,13 +1,14 @@
 # karihataTools
 
-画像ファイルの検査等の自作マクロをエクセルアドインとしてまとめている
-ImageMagickと連携させたり区切り文字付きで文字結合する関数やシートの一括作成をする
+- 画像ファイルの検査等の自作マクロをエクセルアドインとしてまとめている
 
-VBAの勉強用として作成しているため、UIの作り込みは疎らになっている
+- ImageMagickと連携させたり区切り文字付きで文字結合する関数やシートの一括作成をする
 
-参考サイト
-ImageMagickをVBAから使う
+- VBAの勉強用として作成しているため、UIの作り込みは疎らになっている
+
+#### 参考サイト
+- ImageMagickをVBAで使う
 https://sites.google.com/site/torimemoforwork/vba/dll/imagemagick
 
-indentify_format一覧
+- indentify_format一覧
 https://imagemagick.org/script/escape.php
